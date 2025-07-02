@@ -1,0 +1,529 @@
+Province,Commodity,Phase,Price,Date,CommodityType
+Quezon,"RICE, SPECIAL",First Phase Jul 2024,57.0,2024-07-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Jul 2024,57.0,2024-07-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Jul 2024,53.5,2024-07-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Jul 2024,53.5,2024-07-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Jul 2024,50.0,2024-07-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Jul 2024,50.0,2024-07-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Jul 2024,380.0,2024-07-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Jul 2024,380.0,2024-07-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Jul 2024,480.0,2024-07-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Jul 2024,480.0,2024-07-30,meat
+Quezon,"PORK, KASIM",First Phase Jul 2024,340.0,2024-07-15,meat
+Quezon,"PORK, KASIM",Second Phase Jul 2024,340.0,2024-07-30,meat
+Quezon,"PORK, LIEMPO",First Phase Jul 2024,360.0,2024-07-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Jul 2024,350.0,2024-07-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Jul 2024,320.0,2024-07-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Jul 2024,320.0,2024-07-30,meat
+Quezon,DRESSED CHICKEN,First Phase Jul 2024,220.0,2024-07-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Jul 2024,220.0,2024-07-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Jul 2024,7.0,2024-07-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Jul 2024,7.0,2024-07-30,meat
+Quezon,AMPALAYA,First Phase Jul 2024,120.0,2024-07-15,veg
+Quezon,AMPALAYA,Second Phase Jul 2024,100.0,2024-07-30,veg
+Quezon,CABBAGE,First Phase Jul 2024,100.0,2024-07-15,veg
+Quezon,CABBAGE,Second Phase Jul 2024,80.0,2024-07-30,veg
+Quezon,CARROT,First Phase Jul 2024,140.0,2024-07-15,veg
+Quezon,CARROT,Second Phase Jul 2024,160.0,2024-07-30,veg
+Quezon,EGGPLANT,First Phase Jul 2024,100.0,2024-07-15,veg
+Quezon,EGGPLANT,Second Phase Jul 2024,90.0,2024-07-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Jul 2024,100.0,2024-07-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Jul 2024,70.0,2024-07-30,veg
+Quezon,STRING BEANS,First Phase Jul 2024,160.0,2024-07-15,veg
+Quezon,STRING BEANS,Second Phase Jul 2024,110.0,2024-07-30,veg
+Quezon,TOMATO,First Phase Jul 2024,150.0,2024-07-15,veg
+Quezon,TOMATO,Second Phase Jul 2024,200.0,2024-07-30,veg
+Quezon,WHITE POTATO,First Phase Jul 2024,120.0,2024-07-15,veg
+Quezon,WHITE POTATO,Second Phase Jul 2024,100.0,2024-07-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Jul 2024,100.0,2024-07-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Jul 2024,100.0,2024-07-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Jul 2024,60.0,2024-07-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Jul 2024,60.0,2024-07-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Jul 2024,120.0,2024-07-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Jul 2024,160.0,2024-07-30,fruits
+Quezon,PAPAYA,First Phase Jul 2024,70.0,2024-07-15,fruits
+Quezon,PAPAYA,Second Phase Jul 2024,80.0,2024-07-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Aug 2024,57.0,2024-08-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Aug 2024,57.0,2024-08-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Aug 2024,53.5,2024-08-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Aug 2024,53.5,2024-08-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Aug 2024,48.0,2024-08-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Aug 2024,48.0,2024-08-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Aug 2024,380.0,2024-08-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Aug 2024,380.0,2024-08-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Aug 2024,480.0,2024-08-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Aug 2024,480.0,2024-08-30,meat
+Quezon,"PORK, KASIM",First Phase Aug 2024,330.0,2024-08-15,meat
+Quezon,"PORK, KASIM",Second Phase Aug 2024,320.0,2024-08-30,meat
+Quezon,"PORK, LIEMPO",First Phase Aug 2024,340.0,2024-08-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Aug 2024,330.0,2024-08-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Aug 2024,320.0,2024-08-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Aug 2024,310.0,2024-08-30,meat
+Quezon,DRESSED CHICKEN,First Phase Aug 2024,220.0,2024-08-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Aug 2024,210.0,2024-08-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Aug 2024,7.0,2024-08-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Aug 2024,7.0,2024-08-30,meat
+Quezon,AMPALAYA,First Phase Aug 2024,100.0,2024-08-15,veg
+Quezon,AMPALAYA,Second Phase Aug 2024,90.0,2024-08-30,veg
+Quezon,CABBAGE,First Phase Aug 2024,80.0,2024-08-15,veg
+Quezon,CABBAGE,Second Phase Aug 2024,80.0,2024-08-30,veg
+Quezon,CARROT,First Phase Aug 2024,200.0,2024-08-15,veg
+Quezon,CARROT,Second Phase Aug 2024,190.0,2024-08-30,veg
+Quezon,EGGPLANT,First Phase Aug 2024,140.0,2024-08-15,veg
+Quezon,EGGPLANT,Second Phase Aug 2024,130.0,2024-08-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Aug 2024,130.0,2024-08-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Aug 2024,120.0,2024-08-30,veg
+Quezon,STRING BEANS,First Phase Aug 2024,100.0,2024-08-15,veg
+Quezon,STRING BEANS,Second Phase Aug 2024,90.0,2024-08-30,veg
+Quezon,TOMATO,First Phase Aug 2024,200.0,2024-08-15,veg
+Quezon,TOMATO,Second Phase Aug 2024,190.0,2024-08-30,veg
+Quezon,WHITE POTATO,First Phase Aug 2024,120.0,2024-08-15,veg
+Quezon,WHITE POTATO,Second Phase Aug 2024,110.0,2024-08-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Aug 2024,100.0,2024-08-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Aug 2024,100.0,2024-08-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Aug 2024,60.0,2024-08-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Aug 2024,60.0,2024-08-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Aug 2024,180.0,2024-08-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Aug 2024,180.0,2024-08-30,fruits
+Quezon,PAPAYA,First Phase Aug 2024,70.0,2024-08-15,fruits
+Quezon,PAPAYA,Second Phase Aug 2024,70.0,2024-08-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Sep 2024,57.0,2024-09-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Sep 2024,57.0,2024-09-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Sep 2024,53.5,2024-09-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Sep 2024,53.5,2024-09-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Sep 2024,46.0,2024-09-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Sep 2024,46.0,2024-09-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Sep 2024,380.0,2024-09-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Sep 2024,380.0,2024-09-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Sep 2024,480.0,2024-09-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Sep 2024,480.0,2024-09-30,meat
+Quezon,"PORK, KASIM",First Phase Sep 2024,300.0,2024-09-15,meat
+Quezon,"PORK, KASIM",Second Phase Sep 2024,320.0,2024-09-30,meat
+Quezon,"PORK, LIEMPO",First Phase Sep 2024,300.0,2024-09-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Sep 2024,320.0,2024-09-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Sep 2024,280.0,2024-09-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Sep 2024,300.0,2024-09-30,meat
+Quezon,DRESSED CHICKEN,First Phase Sep 2024,220.0,2024-09-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Sep 2024,220.0,2024-09-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Sep 2024,8.0,2024-09-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Sep 2024,8.0,2024-09-30,meat
+Quezon,AMPALAYA,First Phase Sep 2024,80.0,2024-09-15,veg
+Quezon,AMPALAYA,Second Phase Sep 2024,120.0,2024-09-30,veg
+Quezon,CABBAGE,First Phase Sep 2024,80.0,2024-09-15,veg
+Quezon,CABBAGE,Second Phase Sep 2024,80.0,2024-09-30,veg
+Quezon,CARROT,First Phase Sep 2024,155.0,2024-09-15,veg
+Quezon,CARROT,Second Phase Sep 2024,100.0,2024-09-30,veg
+Quezon,EGGPLANT,First Phase Sep 2024,60.0,2024-09-15,veg
+Quezon,EGGPLANT,Second Phase Sep 2024,120.0,2024-09-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Sep 2024,100.0,2024-09-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Sep 2024,160.0,2024-09-30,veg
+Quezon,STRING BEANS,First Phase Sep 2024,70.0,2024-09-15,veg
+Quezon,STRING BEANS,Second Phase Sep 2024,120.0,2024-09-30,veg
+Quezon,TOMATO,First Phase Sep 2024,70.0,2024-09-15,veg
+Quezon,TOMATO,Second Phase Sep 2024,80.0,2024-09-30,veg
+Quezon,WHITE POTATO,First Phase Sep 2024,100.0,2024-09-15,veg
+Quezon,WHITE POTATO,Second Phase Sep 2024,100.0,2024-09-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Sep 2024,100.0,2024-09-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Sep 2024,100.0,2024-09-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Sep 2024,70.0,2024-09-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Sep 2024,60.0,2024-09-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Sep 2024,300.0,2024-09-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Sep 2024,350.0,2024-09-30,fruits
+Quezon,PAPAYA,First Phase Sep 2024,80.0,2024-09-15,fruits
+Quezon,PAPAYA,Second Phase Sep 2024,80.0,2024-09-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Oct 2024,58.0,2024-10-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Oct 2024,58.0,2024-10-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Oct 2024,53.5,2024-10-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Oct 2024,53.5,2024-10-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Oct 2024,46.0,2024-10-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Oct 2024,46.0,2024-10-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Oct 2024,380.0,2024-10-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Oct 2024,380.0,2024-10-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Oct 2024,480.0,2024-10-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Oct 2024,480.0,2024-10-30,meat
+Quezon,"PORK, KASIM",First Phase Oct 2024,340.0,2024-10-15,meat
+Quezon,"PORK, KASIM",Second Phase Oct 2024,320.0,2024-10-30,meat
+Quezon,"PORK, LIEMPO",First Phase Oct 2024,340.0,2024-10-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Oct 2024,320.0,2024-10-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Oct 2024,300.0,2024-10-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Oct 2024,300.0,2024-10-30,meat
+Quezon,DRESSED CHICKEN,First Phase Oct 2024,220.0,2024-10-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Oct 2024,220.0,2024-10-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Oct 2024,8.33,2024-10-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Oct 2024,8.33,2024-10-30,meat
+Quezon,AMPALAYA,First Phase Oct 2024,150.0,2024-10-15,veg
+Quezon,AMPALAYA,Second Phase Oct 2024,150.0,2024-10-30,veg
+Quezon,CABBAGE,First Phase Oct 2024,80.0,2024-10-15,veg
+Quezon,CABBAGE,Second Phase Oct 2024,80.0,2024-10-30,veg
+Quezon,CARROT,First Phase Oct 2024,140.0,2024-10-15,veg
+Quezon,CARROT,Second Phase Oct 2024,140.0,2024-10-30,veg
+Quezon,EGGPLANT,First Phase Oct 2024,140.0,2024-10-15,veg
+Quezon,EGGPLANT,Second Phase Oct 2024,140.0,2024-10-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Oct 2024,120.0,2024-10-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Oct 2024,120.0,2024-10-30,veg
+Quezon,STRING BEANS,First Phase Oct 2024,110.0,2024-10-15,veg
+Quezon,STRING BEANS,Second Phase Oct 2024,110.0,2024-10-30,veg
+Quezon,TOMATO,First Phase Oct 2024,60.0,2024-10-15,veg
+Quezon,TOMATO,Second Phase Oct 2024,60.0,2024-10-30,veg
+Quezon,WHITE POTATO,First Phase Oct 2024,100.0,2024-10-15,veg
+Quezon,WHITE POTATO,Second Phase Oct 2024,100.0,2024-10-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Oct 2024,100.0,2024-10-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Oct 2024,100.0,2024-10-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Oct 2024,60.0,2024-10-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Oct 2024,60.0,2024-10-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Oct 2024,320.0,2024-10-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Oct 2024,320.0,2024-10-30,fruits
+Quezon,PAPAYA,First Phase Oct 2024,80.0,2024-10-15,fruits
+Quezon,PAPAYA,Second Phase Oct 2024,80.0,2024-10-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Nov 2024,58.0,2024-11-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Nov 2024,58.0,2024-11-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Nov 2024,52.5,2024-11-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Nov 2024,52.5,2024-11-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Nov 2024,46.0,2024-11-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Nov 2024,46.0,2024-11-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Nov 2024,380.0,2024-11-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Nov 2024,380.0,2024-11-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Nov 2024,480.0,2024-11-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Nov 2024,480.0,2024-11-30,meat
+Quezon,"PORK, KASIM",First Phase Nov 2024,320.0,2024-11-15,meat
+Quezon,"PORK, KASIM",Second Phase Nov 2024,320.0,2024-11-30,meat
+Quezon,"PORK, LIEMPO",First Phase Nov 2024,340.0,2024-11-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Nov 2024,340.0,2024-11-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Nov 2024,300.0,2024-11-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Nov 2024,300.0,2024-11-30,meat
+Quezon,DRESSED CHICKEN,First Phase Nov 2024,200.0,2024-11-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Nov 2024,200.0,2024-11-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Nov 2024,8.5,2024-11-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Nov 2024,8.5,2024-11-30,meat
+Quezon,AMPALAYA,First Phase Nov 2024,170.0,2024-11-15,veg
+Quezon,AMPALAYA,Second Phase Nov 2024,180.0,2024-11-30,veg
+Quezon,CABBAGE,First Phase Nov 2024,120.0,2024-11-15,veg
+Quezon,CABBAGE,Second Phase Nov 2024,120.0,2024-11-30,veg
+Quezon,CARROT,First Phase Nov 2024,180.0,2024-11-15,veg
+Quezon,CARROT,Second Phase Nov 2024,200.0,2024-11-30,veg
+Quezon,EGGPLANT,First Phase Nov 2024,100.0,2024-11-15,veg
+Quezon,EGGPLANT,Second Phase Nov 2024,240.0,2024-11-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Nov 2024,170.0,2024-11-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Nov 2024,120.0,2024-11-30,veg
+Quezon,STRING BEANS,First Phase Nov 2024,140.0,2024-11-15,veg
+Quezon,STRING BEANS,Second Phase Nov 2024,140.0,2024-11-30,veg
+Quezon,TOMATO,First Phase Nov 2024,170.0,2024-11-15,veg
+Quezon,TOMATO,Second Phase Nov 2024,160.0,2024-11-30,veg
+Quezon,WHITE POTATO,First Phase Nov 2024,100.0,2024-11-15,veg
+Quezon,WHITE POTATO,Second Phase Nov 2024,100.0,2024-11-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Nov 2024,100.0,2024-11-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Nov 2024,85.0,2024-11-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Nov 2024,60.0,2024-11-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Nov 2024,45.0,2024-11-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Nov 2024,200.0,2024-11-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Nov 2024,200.0,2024-11-30,fruits
+Quezon,PAPAYA,First Phase Nov 2024,80.0,2024-11-15,fruits
+Quezon,PAPAYA,Second Phase Nov 2024,80.0,2024-11-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Dec 2024,58.0,2024-12-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Dec 2024,58.0,2024-12-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Dec 2024,52.5,2024-12-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Dec 2024,52.5,2024-12-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Dec 2024,46.0,2024-12-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Dec 2024,44.0,2024-12-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Dec 2024,390.0,2024-12-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Dec 2024,380.0,2024-12-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Dec 2024,490.0,2024-12-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Dec 2024,480.0,2024-12-30,meat
+Quezon,"PORK, KASIM",First Phase Dec 2024,330.0,2024-12-15,meat
+Quezon,"PORK, KASIM",Second Phase Dec 2024,340.0,2024-12-30,meat
+Quezon,"PORK, LIEMPO",First Phase Dec 2024,350.0,2024-12-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Dec 2024,350.0,2024-12-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Dec 2024,310.0,2024-12-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Dec 2024,320.0,2024-12-30,meat
+Quezon,DRESSED CHICKEN,First Phase Dec 2024,200.0,2024-12-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Dec 2024,220.0,2024-12-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Dec 2024,8.5,2024-12-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Dec 2024,8.5,2024-12-30,meat
+Quezon,AMPALAYA,First Phase Dec 2024,180.0,2024-12-15,veg
+Quezon,AMPALAYA,Second Phase Dec 2024,150.0,2024-12-30,veg
+Quezon,CABBAGE,First Phase Dec 2024,120.0,2024-12-15,veg
+Quezon,CABBAGE,Second Phase Dec 2024,100.0,2024-12-30,veg
+Quezon,CARROT,First Phase Dec 2024,200.0,2024-12-15,veg
+Quezon,CARROT,Second Phase Dec 2024,180.0,2024-12-30,veg
+Quezon,EGGPLANT,First Phase Dec 2024,180.0,2024-12-15,veg
+Quezon,EGGPLANT,Second Phase Dec 2024,100.0,2024-12-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Dec 2024,120.0,2024-12-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Dec 2024,100.0,2024-12-30,veg
+Quezon,STRING BEANS,First Phase Dec 2024,140.0,2024-12-15,veg
+Quezon,STRING BEANS,Second Phase Dec 2024,130.0,2024-12-30,veg
+Quezon,TOMATO,First Phase Dec 2024,150.0,2024-12-15,veg
+Quezon,TOMATO,Second Phase Dec 2024,200.0,2024-12-30,veg
+Quezon,WHITE POTATO,First Phase Dec 2024,100.0,2024-12-15,veg
+Quezon,WHITE POTATO,Second Phase Dec 2024,160.0,2024-12-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Dec 2024,85.0,2024-12-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Dec 2024,100.0,2024-12-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Dec 2024,45.0,2024-12-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Dec 2024,60.0,2024-12-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Dec 2024,200.0,2024-12-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Dec 2024,200.0,2024-12-30,fruits
+Quezon,PAPAYA,First Phase Dec 2024,80.0,2024-12-15,fruits
+Quezon,PAPAYA,Second Phase Dec 2024,80.0,2024-12-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Jan 2025,58.0,2025-01-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Jan 2025,58.0,2025-01-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Jan 2025,52.5,2025-01-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Jan 2025,52.5,2025-01-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Jan 2025,45.0,2025-01-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Jan 2025,45.0,2025-01-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Jan 2025,390.0,2025-01-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Jan 2025,380.0,2025-01-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Jan 2025,500.0,2025-01-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Jan 2025,480.0,2025-01-30,meat
+Quezon,"PORK, KASIM",First Phase Jan 2025,370.0,2025-01-15,meat
+Quezon,"PORK, KASIM",Second Phase Jan 2025,370.0,2025-01-30,meat
+Quezon,"PORK, LIEMPO",First Phase Jan 2025,380.0,2025-01-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Jan 2025,380.0,2025-01-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Jan 2025,350.0,2025-01-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Jan 2025,360.0,2025-01-30,meat
+Quezon,DRESSED CHICKEN,First Phase Jan 2025,240.0,2025-01-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Jan 2025,220.0,2025-01-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Jan 2025,8.5,2025-01-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Jan 2025,8.5,2025-01-30,meat
+Quezon,AMPALAYA,First Phase Jan 2025,130.0,2025-01-15,veg
+Quezon,AMPALAYA,Second Phase Jan 2025,140.0,2025-01-30,veg
+Quezon,CABBAGE,First Phase Jan 2025,90.0,2025-01-15,veg
+Quezon,CABBAGE,Second Phase Jan 2025,80.0,2025-01-30,veg
+Quezon,CARROT,First Phase Jan 2025,200.0,2025-01-15,veg
+Quezon,CARROT,Second Phase Jan 2025,190.0,2025-01-30,veg
+Quezon,EGGPLANT,First Phase Jan 2025,160.0,2025-01-15,veg
+Quezon,EGGPLANT,Second Phase Jan 2025,160.0,2025-01-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Jan 2025,110.0,2025-01-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Jan 2025,100.0,2025-01-30,veg
+Quezon,STRING BEANS,First Phase Jan 2025,125.0,2025-01-15,veg
+Quezon,STRING BEANS,Second Phase Jan 2025,130.0,2025-01-30,veg
+Quezon,TOMATO,First Phase Jan 2025,230.0,2025-01-15,veg
+Quezon,TOMATO,Second Phase Jan 2025,140.0,2025-01-30,veg
+Quezon,WHITE POTATO,First Phase Jan 2025,175.0,2025-01-15,veg
+Quezon,WHITE POTATO,Second Phase Jan 2025,185.0,2025-01-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Jan 2025,100.0,2025-01-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Jan 2025,100.0,2025-01-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Jan 2025,60.0,2025-01-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Jan 2025,60.0,2025-01-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Jan 2025,225.0,2025-01-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Jan 2025,200.0,2025-01-30,fruits
+Quezon,PAPAYA,First Phase Jan 2025,80.0,2025-01-15,fruits
+Quezon,PAPAYA,Second Phase Jan 2025,80.0,2025-01-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Feb 2025,58.0,2025-02-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Feb 2025,56.0,2025-02-28,rice
+Quezon,"RICE, WELL MILLED",First Phase Feb 2025,52.5,2025-02-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Feb 2025,51.5,2025-02-28,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Feb 2025,45.0,2025-02-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Feb 2025,44.75,2025-02-28,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Feb 2025,390.0,2025-02-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Feb 2025,380.0,2025-02-28,meat
+Quezon,"BEEF, PURE MEAT",First Phase Feb 2025,480.0,2025-02-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Feb 2025,480.0,2025-02-28,meat
+Quezon,"PORK, KASIM",First Phase Feb 2025,385.0,2025-02-15,meat
+Quezon,"PORK, KASIM",Second Phase Feb 2025,395.0,2025-02-28,meat
+Quezon,"PORK, LIEMPO",First Phase Feb 2025,395.0,2025-02-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Feb 2025,400.0,2025-02-28,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Feb 2025,375.0,2025-02-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Feb 2025,375.0,2025-02-28,meat
+Quezon,DRESSED CHICKEN,First Phase Feb 2025,235.0,2025-02-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Feb 2025,225.0,2025-02-28,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Feb 2025,8.5,2025-02-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Feb 2025,8.5,2025-02-28,meat
+Quezon,AMPALAYA,First Phase Feb 2025,120.0,2025-02-15,veg
+Quezon,AMPALAYA,Second Phase Feb 2025,130.0,2025-02-28,veg
+Quezon,CABBAGE,First Phase Feb 2025,90.0,2025-02-15,veg
+Quezon,CABBAGE,Second Phase Feb 2025,90.0,2025-02-28,veg
+Quezon,CARROT,First Phase Feb 2025,165.0,2025-02-15,veg
+Quezon,CARROT,Second Phase Feb 2025,135.0,2025-02-28,veg
+Quezon,EGGPLANT,First Phase Feb 2025,125.0,2025-02-15,veg
+Quezon,EGGPLANT,Second Phase Feb 2025,90.0,2025-02-28,veg
+Quezon,"PECHAY, NATIVE",First Phase Feb 2025,90.0,2025-02-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Feb 2025,80.0,2025-02-28,veg
+Quezon,STRING BEANS,First Phase Feb 2025,112.5,2025-02-15,veg
+Quezon,STRING BEANS,Second Phase Feb 2025,120.0,2025-02-28,veg
+Quezon,TOMATO,First Phase Feb 2025,80.0,2025-02-15,veg
+Quezon,TOMATO,Second Phase Feb 2025,50.0,2025-02-28,veg
+Quezon,WHITE POTATO,First Phase Feb 2025,155.0,2025-02-15,veg
+Quezon,WHITE POTATO,Second Phase Feb 2025,130.0,2025-02-28,veg
+Quezon,"BANANA, LAKATAN",First Phase Feb 2025,100.0,2025-02-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Feb 2025,100.0,2025-02-28,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Feb 2025,60.0,2025-02-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Feb 2025,60.0,2025-02-28,fruits
+Quezon,"MANGO, CARABAO",First Phase Feb 2025,180.0,2025-02-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Feb 2025,180.0,2025-02-28,fruits
+Quezon,PAPAYA,First Phase Feb 2025,80.0,2025-02-15,fruits
+Quezon,PAPAYA,Second Phase Feb 2025,80.0,2025-02-28,fruits
+Quezon,"RICE, SPECIAL",First Phase Mar 2025,56.0,2025-03-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Mar 2025,56.0,2025-03-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Mar 2025,51.0,2025-03-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Mar 2025,49.0,2025-03-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Mar 2025,44.75,2025-03-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Mar 2025,44.75,2025-03-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Mar 2025,380.0,2025-03-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Mar 2025,380.0,2025-03-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Mar 2025,480.0,2025-03-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Mar 2025,480.0,2025-03-30,meat
+Quezon,"PORK, KASIM",First Phase Mar 2025,390.0,2025-03-15,meat
+Quezon,"PORK, KASIM",Second Phase Mar 2025,390.0,2025-03-30,meat
+Quezon,"PORK, LIEMPO",First Phase Mar 2025,400.0,2025-03-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Mar 2025,400.0,2025-03-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Mar 2025,380.0,2025-03-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Mar 2025,380.0,2025-03-30,meat
+Quezon,DRESSED CHICKEN,First Phase Mar 2025,230.0,2025-03-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Mar 2025,220.0,2025-03-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Mar 2025,8.5,2025-03-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Mar 2025,8.5,2025-03-30,meat
+Quezon,AMPALAYA,First Phase Mar 2025,130.0,2025-03-15,veg
+Quezon,AMPALAYA,Second Phase Mar 2025,120.0,2025-03-30,veg
+Quezon,CABBAGE,First Phase Mar 2025,70.0,2025-03-15,veg
+Quezon,CABBAGE,Second Phase Mar 2025,70.0,2025-03-30,veg
+Quezon,CARROT,First Phase Mar 2025,110.0,2025-03-15,veg
+Quezon,CARROT,Second Phase Mar 2025,100.0,2025-03-30,veg
+Quezon,EGGPLANT,First Phase Mar 2025,125.0,2025-03-15,veg
+Quezon,EGGPLANT,Second Phase Mar 2025,120.0,2025-03-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Mar 2025,70.0,2025-03-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Mar 2025,70.0,2025-03-30,veg
+Quezon,STRING BEANS,First Phase Mar 2025,120.0,2025-03-15,veg
+Quezon,STRING BEANS,Second Phase Mar 2025,120.0,2025-03-30,veg
+Quezon,TOMATO,First Phase Mar 2025,37.5,2025-03-15,veg
+Quezon,TOMATO,Second Phase Mar 2025,40.0,2025-03-30,veg
+Quezon,WHITE POTATO,First Phase Mar 2025,110.0,2025-03-15,veg
+Quezon,WHITE POTATO,Second Phase Mar 2025,100.0,2025-03-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Mar 2025,100.0,2025-03-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Mar 2025,100.0,2025-03-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Mar 2025,65.0,2025-03-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Mar 2025,70.0,2025-03-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Mar 2025,180.0,2025-03-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Mar 2025,160.0,2025-03-30,fruits
+Quezon,PAPAYA,First Phase Mar 2025,80.0,2025-03-15,fruits
+Quezon,PAPAYA,Second Phase Mar 2025,80.0,2025-03-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Apr 2025,55.5,2025-04-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Apr 2025,54.5,2025-04-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Apr 2025,48.0,2025-04-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Apr 2025,47.5,2025-04-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Apr 2025,44.0,2025-04-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Apr 2025,43.0,2025-04-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Apr 2025,380.0,2025-04-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Apr 2025,390.0,2025-04-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Apr 2025,480.0,2025-04-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Apr 2025,480.0,2025-04-30,meat
+Quezon,"PORK, KASIM",First Phase Apr 2025,390.0,2025-04-15,meat
+Quezon,"PORK, KASIM",Second Phase Apr 2025,390.0,2025-04-30,meat
+Quezon,"PORK, LIEMPO",First Phase Apr 2025,400.0,2025-04-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Apr 2025,400.0,2025-04-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Apr 2025,380.0,2025-04-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Apr 2025,380.0,2025-04-30,meat
+Quezon,DRESSED CHICKEN,First Phase Apr 2025,220.0,2025-04-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Apr 2025,220.0,2025-04-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Apr 2025,8.5,2025-04-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Apr 2025,8.5,2025-04-30,meat
+Quezon,AMPALAYA,First Phase Apr 2025,120.0,2025-04-15,veg
+Quezon,AMPALAYA,Second Phase Apr 2025,100.0,2025-04-30,veg
+Quezon,CABBAGE,First Phase Apr 2025,85.0,2025-04-15,veg
+Quezon,CABBAGE,Second Phase Apr 2025,100.0,2025-04-30,veg
+Quezon,CARROT,First Phase Apr 2025,100.0,2025-04-15,veg
+Quezon,CARROT,Second Phase Apr 2025,100.0,2025-04-30,veg
+Quezon,EGGPLANT,First Phase Apr 2025,120.0,2025-04-15,veg
+Quezon,EGGPLANT,Second Phase Apr 2025,120.0,2025-04-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Apr 2025,70.0,2025-04-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Apr 2025,80.0,2025-04-30,veg
+Quezon,STRING BEANS,First Phase Apr 2025,120.0,2025-04-15,veg
+Quezon,STRING BEANS,Second Phase Apr 2025,100.0,2025-04-30,veg
+Quezon,TOMATO,First Phase Apr 2025,60.0,2025-04-15,veg
+Quezon,TOMATO,Second Phase Apr 2025,65.0,2025-04-30,veg
+Quezon,WHITE POTATO,First Phase Apr 2025,100.0,2025-04-15,veg
+Quezon,WHITE POTATO,Second Phase Apr 2025,100.0,2025-04-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Apr 2025,100.0,2025-04-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Apr 2025,100.0,2025-04-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Apr 2025,70.0,2025-04-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Apr 2025,70.0,2025-04-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Apr 2025,150.0,2025-04-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Apr 2025,115.0,2025-04-30,fruits
+Quezon,PAPAYA,First Phase Apr 2025,80.0,2025-04-15,fruits
+Quezon,PAPAYA,Second Phase Apr 2025,80.0,2025-04-30,fruits
+Quezon,"RICE, SPECIAL",First Phase May 2025,53.0,2025-05-15,rice
+Quezon,"RICE, SPECIAL",Second Phase May 2025,53.0,2025-05-30,rice
+Quezon,"RICE, WELL MILLED",First Phase May 2025,47.0,2025-05-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase May 2025,47.0,2025-05-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase May 2025,43.0,2025-05-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase May 2025,42.5,2025-05-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase May 2025,380.0,2025-05-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase May 2025,400.0,2025-05-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase May 2025,480.0,2025-05-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase May 2025,500.0,2025-05-30,meat
+Quezon,"PORK, KASIM",First Phase May 2025,400.0,2025-05-15,meat
+Quezon,"PORK, KASIM",Second Phase May 2025,400.0,2025-05-30,meat
+Quezon,"PORK, LIEMPO",First Phase May 2025,400.0,2025-05-15,meat
+Quezon,"PORK, LIEMPO",Second Phase May 2025,420.0,2025-05-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase May 2025,380.0,2025-05-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase May 2025,390.0,2025-05-30,meat
+Quezon,DRESSED CHICKEN,First Phase May 2025,220.0,2025-05-15,meat
+Quezon,DRESSED CHICKEN,Second Phase May 2025,220.0,2025-05-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase May 2025,8.5,2025-05-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase May 2025,8.5,2025-05-30,meat
+Quezon,AMPALAYA,First Phase May 2025,100.0,2025-05-15,veg
+Quezon,AMPALAYA,Second Phase May 2025,100.0,2025-05-30,veg
+Quezon,CABBAGE,First Phase May 2025,120.0,2025-05-15,veg
+Quezon,CABBAGE,Second Phase May 2025,120.0,2025-05-30,veg
+Quezon,CARROT,First Phase May 2025,100.0,2025-05-15,veg
+Quezon,CARROT,Second Phase May 2025,100.0,2025-05-30,veg
+Quezon,EGGPLANT,First Phase May 2025,100.0,2025-05-15,veg
+Quezon,EGGPLANT,Second Phase May 2025,70.0,2025-05-30,veg
+Quezon,"PECHAY, NATIVE",First Phase May 2025,100.0,2025-05-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase May 2025,100.0,2025-05-30,veg
+Quezon,STRING BEANS,First Phase May 2025,120.0,2025-05-15,veg
+Quezon,STRING BEANS,Second Phase May 2025,120.0,2025-05-30,veg
+Quezon,TOMATO,First Phase May 2025,70.0,2025-05-15,veg
+Quezon,TOMATO,Second Phase May 2025,70.0,2025-05-30,veg
+Quezon,WHITE POTATO,First Phase May 2025,100.0,2025-05-15,veg
+Quezon,WHITE POTATO,Second Phase May 2025,100.0,2025-05-30,veg
+Quezon,"BANANA, LAKATAN",First Phase May 2025,100.0,2025-05-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase May 2025,100.0,2025-05-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase May 2025,70.0,2025-05-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase May 2025,70.0,2025-05-30,fruits
+Quezon,"MANGO, CARABAO",First Phase May 2025,110.0,2025-05-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase May 2025,110.0,2025-05-30,fruits
+Quezon,PAPAYA,First Phase May 2025,80.0,2025-05-15,fruits
+Quezon,PAPAYA,Second Phase May 2025,80.0,2025-05-30,fruits
+Quezon,"RICE, SPECIAL",First Phase Jun 2025,53.0,2025-06-15,rice
+Quezon,"RICE, SPECIAL",Second Phase Jun 2025,53.0,2025-06-30,rice
+Quezon,"RICE, WELL MILLED",First Phase Jun 2025,47.0,2025-06-15,rice
+Quezon,"RICE, WELL MILLED",Second Phase Jun 2025,46.5,2025-06-30,rice
+Quezon,"RICE, REGULAR MILLED",First Phase Jun 2025,43.0,2025-06-15,rice
+Quezon,"RICE, REGULAR MILLED",Second Phase Jun 2025,41.0,2025-06-30,rice
+Quezon,"BEEF, MEAT WITH BONES",First Phase Jun 2025,400.0,2025-06-15,meat
+Quezon,"BEEF, MEAT WITH BONES",Second Phase Jun 2025,400.0,2025-06-30,meat
+Quezon,"BEEF, PURE MEAT",First Phase Jun 2025,500.0,2025-06-15,meat
+Quezon,"BEEF, PURE MEAT",Second Phase Jun 2025,500.0,2025-06-30,meat
+Quezon,"PORK, KASIM",First Phase Jun 2025,400.0,2025-06-15,meat
+Quezon,"PORK, KASIM",Second Phase Jun 2025,400.0,2025-06-30,meat
+Quezon,"PORK, LIEMPO",First Phase Jun 2025,420.0,2025-06-15,meat
+Quezon,"PORK, LIEMPO",Second Phase Jun 2025,420.0,2025-06-30,meat
+Quezon,"PORK, MEAT WITH BONES",First Phase Jun 2025,390.0,2025-06-15,meat
+Quezon,"PORK, MEAT WITH BONES",Second Phase Jun 2025,390.0,2025-06-30,meat
+Quezon,DRESSED CHICKEN,First Phase Jun 2025,220.0,2025-06-15,meat
+Quezon,DRESSED CHICKEN,Second Phase Jun 2025,240.0,2025-06-30,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",First Phase Jun 2025,8.17,2025-06-15,meat
+Quezon,"CHICKEN EGG, MED. (per piece)",Second Phase Jun 2025,8.13,2025-06-30,meat
+Quezon,AMPALAYA,First Phase Jun 2025,120.0,2025-06-15,veg
+Quezon,AMPALAYA,Second Phase Jun 2025,120.0,2025-06-30,veg
+Quezon,CABBAGE,First Phase Jun 2025,110.0,2025-06-15,veg
+Quezon,CABBAGE,Second Phase Jun 2025,100.0,2025-06-30,veg
+Quezon,CARROT,First Phase Jun 2025,110.0,2025-06-15,veg
+Quezon,CARROT,Second Phase Jun 2025,120.0,2025-06-30,veg
+Quezon,EGGPLANT,First Phase Jun 2025,80.0,2025-06-15,veg
+Quezon,EGGPLANT,Second Phase Jun 2025,80.0,2025-06-30,veg
+Quezon,"PECHAY, NATIVE",First Phase Jun 2025,100.0,2025-06-15,veg
+Quezon,"PECHAY, NATIVE",Second Phase Jun 2025,100.0,2025-06-30,veg
+Quezon,STRING BEANS,First Phase Jun 2025,120.0,2025-06-15,veg
+Quezon,STRING BEANS,Second Phase Jun 2025,140.0,2025-06-30,veg
+Quezon,TOMATO,First Phase Jun 2025,60.0,2025-06-15,veg
+Quezon,TOMATO,Second Phase Jun 2025,80.0,2025-06-30,veg
+Quezon,WHITE POTATO,First Phase Jun 2025,100.0,2025-06-15,veg
+Quezon,WHITE POTATO,Second Phase Jun 2025,90.0,2025-06-30,veg
+Quezon,"BANANA, LAKATAN",First Phase Jun 2025,100.0,2025-06-15,fruits
+Quezon,"BANANA, LAKATAN",Second Phase Jun 2025,100.0,2025-06-30,fruits
+Quezon,"BANANA, LATUNDAN",First Phase Jun 2025,70.0,2025-06-15,fruits
+Quezon,"BANANA, LATUNDAN",Second Phase Jun 2025,70.0,2025-06-30,fruits
+Quezon,"MANGO, CARABAO",First Phase Jun 2025,100.0,2025-06-15,fruits
+Quezon,"MANGO, CARABAO",Second Phase Jun 2025,100.0,2025-06-30,fruits
+Quezon,PAPAYA,First Phase Jun 2025,80.0,2025-06-15,fruits
+Quezon,PAPAYA,Second Phase Jun 2025,80.0,2025-06-30,fruits

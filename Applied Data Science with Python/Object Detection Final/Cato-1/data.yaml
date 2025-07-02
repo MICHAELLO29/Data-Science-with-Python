@@ -1,0 +1,13 @@
+names:
+- Cat
+- Cats
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: cato-nlzec
+  url: https://universe.roboflow.com/cato-dbqi8/cato-nlzec/dataset/1
+  version: 1
+  workspace: cato-dbqi8
+test: ../test/images
+train: ../train/images
+val: ../valid/images

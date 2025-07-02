@@ -1,0 +1,12 @@
+names:
+- Dogs
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: dogs-and-cats1
+  url: https://universe.roboflow.com/dataset-xd7q9/dogs-and-cats1/dataset/1
+  version: 1
+  workspace: dataset-xd7q9
+test: ../test/images
+train: ../train/images
+val: ../valid/images
